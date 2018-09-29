@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">iBazar</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="register">REGISTER</string>
+    <string name="password">Password</string>
+    <string name="user_registration">USER REGISTRATION</string>
+    <string name="password2">Re-Enter Password</string>
 </resources>
