@@ -13,9 +13,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.login);
     }
 
-    public void signup(View view){
+   /* public void signup(View view){
         Intent intent = new Intent(this,Registration.class);
         startActivity(intent);
-    }
+    }*/
 
 }

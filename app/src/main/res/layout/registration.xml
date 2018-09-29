@@ -48,10 +48,10 @@
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/editText3" />
+            app:layout_constraintTop_toBottomOf="@+id/name" />
 
         <EditText
-            android:id="@+id/editText5"
+            android:id="@+id/phone"
             android:layout_width="320dp"
             android:layout_height="40dp"
             android:layout_marginEnd="8dp"
@@ -69,10 +69,10 @@
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/editText6" />
+            app:layout_constraintTop_toBottomOf="@+id/email" />
 
         <EditText
-            android:id="@+id/editText6"
+            android:id="@+id/email"
             android:layout_width="320dp"
             android:layout_height="40dp"
             android:layout_marginEnd="8dp"
@@ -93,7 +93,7 @@
             app:layout_constraintTop_toBottomOf="@+id/username" />
 
         <EditText
-            android:id="@+id/editText3"
+            android:id="@+id/name"
             android:layout_width="320dp"
             android:layout_height="40dp"
             android:layout_marginEnd="8dp"
@@ -114,7 +114,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView" />
 
         <EditText
-            android:id="@+id/editText"
+            android:id="@+id/password2"
             android:layout_width="320dp"
             android:layout_height="40dp"
             android:layout_marginEnd="8dp"
@@ -131,10 +131,10 @@
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/editText7" />
+            app:layout_constraintTop_toBottomOf="@+id/password" />
 
         <EditText
-            android:id="@+id/editText7"
+            android:id="@+id/password"
             android:layout_width="320dp"
             android:layout_height="40dp"
             android:layout_marginEnd="8dp"
@@ -151,7 +151,7 @@
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/editText5" />
+            app:layout_constraintTop_toBottomOf="@+id/phone" />
 
         <Button
             android:id="@+id/signup"
