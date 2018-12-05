@@ -1,5 +1,5 @@
 # iBazar-Android-App
-<img src="https://github.com/Safnaj/iBazar-Android-App/blob/master/app/src/main/res/drawable/UIUX.jpg" width="200">
+<img src="https://github.com/Safnaj/iBazar-Android-App/blob/master/app/src/main/res/drawable/UIUX.jpg" width="600">
 
 ## Technologies Used
 * Java
