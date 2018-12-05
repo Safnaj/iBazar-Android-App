@@ -1,5 +1,5 @@
 # iBazar-Android-App
-![Logo](https://github.com/Safnaj/iBazar-Android-App/blob/master/app/src/main/res/drawable/UIUX.jpg)
+![Logo](https://github.com/Safnaj/iBazar-Android-App/blob/master/app/src/main/res/drawable/UIUX.jpg =250x250)
 
 ## Technologies Used
 * Java
