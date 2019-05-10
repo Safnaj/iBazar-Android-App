@@ -94,6 +94,7 @@ public class Registration extends AppCompatActivity {
             db =  FirebaseDatabase.getInstance().getReferenceFromUrl("https://ibazar-17155.firebaseio.com/");
             firebase = db.child("Users").setValue(user);
 
+			//Toast Message
             Toast.makeText(Registration.this, "Registered Successfully..!", Toast.LENGTH_SHORT).show();
 
         }

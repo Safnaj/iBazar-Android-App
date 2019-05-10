@@ -21,22 +21,19 @@ public class Validation {
     }
 
     public static boolean validatePhone(EditText txt) {
-
+	
+		//Phone Number Validation using Regular Expression
         if (txt.getText().toString().matches("^(\\d{10})")) {
-
             return false;
         } else {
-
             return true;
         }
     }
 
     public static boolean numbersOnly(EditText txt) {
         if (txt.getText().toString().matches("[0-9]+")) {
-
             return true;
         } else {
-
             return false;
         }
     }
