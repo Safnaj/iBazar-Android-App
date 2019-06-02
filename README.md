@@ -3,6 +3,7 @@
 
 ## Technologies Used
 * Java
+* Android Studio
 * Adobe XD
 * Google Firebase
 
