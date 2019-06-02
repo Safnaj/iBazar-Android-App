@@ -8,5 +8,4 @@
 * Google Firebase
 
 ## Authors
-
 * **Ahamed Safnaj** - *Developer* Who's the author of those contents - [Safnaj](https://ahamedsafnaj.blogspot.com)
